@@ -24,29 +24,21 @@ The Nike Landing Page is a modern, responsive web page designed to showcase Nike
 To run this project locally, follow these steps:
 
 Clone the Repository
-
-bash
-
+```
 git clone https://github.com/your-username/Nike_Landing_Page.git
-
+```
 Navigate to the Project Directory
-
-bash
-
+```
 cd Nike_Landing_Page
-
+```
 Install Dependencies
-
-bash
-
+```
 npm install
-
+```
 Start the Development Server
-
-bash
-
+```
 npm run dev
-
+```
 Open your browser and navigate to http://localhost:3000 to see the landing page in action.
 Usage
 
